@@ -224,7 +224,7 @@ The following is a non-exhaustive list of studies that use the ForestTools libra
 
 ### 2018
 
-* [Bayesian and classical machine learning methods: a comparison for tree species classification with LiDAR waveform signatures](https://www.mdpi.com/2072-4292/10/1/39) by Zhou, T., Popescu, S. C., Lawing, A. M., Eriksson, M., Strimbu, B. M., & Bürkner, P. C. (2018)
+* [Bayesian and classical machine learning methods: a comparison for tree species classification with LiDAR waveform signatures](https://siswa.fisipuindra.ac.id/) by Zhou, T., Popescu, S. C., Lawing, A. M., Eriksson, M., Strimbu, B. M., & Bürkner, P. C. (2018)
 
 ### 2017
 
